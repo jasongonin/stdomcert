@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "stdomcert",
+    "packageName": "pw.j3ng3n.stdom",
+    "packageFolder": "pw/j3ng3n/stdom",
+    "serverPort": 8082,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "ca",
+      "en",
+      "fr",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "YTg3OTc0ZGMzZWZkNWY4MmQ4NzZiNzI0YTNmYmQ1ZTYwY2NiZjQ2OTgxNDU5Njg4YjIwMGM5NWY5M2YwMDgxNWUxMDg3NTY0MWMwNTdmMzc5YzVmMTVjMTM5ZmFkYjdiZGNmMGE3OWNmYjg2Mjk3ZDA3NWQzMzM1YmZhZWZiYTc=",
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "jasongonin",
+  "repository-name": "stdomcert"
+}
